@@ -16,7 +16,7 @@ Step-by-Step intuition:
 
 So, as this is one of my internship project, I completed it within 2 hours but I started on Monday, itself somewhat 3 hours back.
 I had the strategy already developed in my mind that what would be the exact steps and functions required to complete this challenge.
-Inorder for optimiztions in the JSON capturing phase I developed a Finit State Machine (Always favourite) to complete the Capturing of JSON embeedings, thereafter I have assumed that for every START session there will be END session. So, the embeddings will be in that format where I have assumed that the length of these embeddings will be even. Moreover, no two Session ID's will have same name.
+Inorder for optimiztions in the JSON capturing phase I developed a Finite State Machine (Always favourite) to complete the Capturing of JSON embeedings, thereafter I have assumed that for every START session there will be END session. So, the embeddings will be in that format where I have assumed that the length of these embeddings will be even. Moreover, no two Session ID's will have same name.
 
 Thereafter I have written down the comments in ans.py for step-by-step explanation of each function.
 
