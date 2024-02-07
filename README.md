@@ -1,4 +1,4 @@
-# G-Research
+# G-Research (Alternatively it could be called as Python Parser)
 This is the G-Research coding Assessment.
 
 
